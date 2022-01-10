@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-//
+// Teste de Soma
 func TestSoma(t *testing.T) {
 	total := Soma(15, 15)
 
